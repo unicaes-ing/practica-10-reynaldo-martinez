@@ -1,0 +1,7 @@
+C:\proyectos\Practica10\Practica10\bin\Debug\Practica10.exe.config
+C:\proyectos\Practica10\Practica10\bin\Debug\Practica10.exe
+C:\proyectos\Practica10\Practica10\bin\Debug\Practica10.pdb
+C:\proyectos\Practica10\Practica10\obj\Debug\Practica10.csprojAssemblyReference.cache
+C:\proyectos\Practica10\Practica10\obj\Debug\Practica10.csproj.CoreCompileInputs.cache
+C:\proyectos\Practica10\Practica10\obj\Debug\Practica10.exe
+C:\proyectos\Practica10\Practica10\obj\Debug\Practica10.pdb
